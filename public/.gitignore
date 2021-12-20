@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# generated files
+package-lock.json
+yarn.lock
+.DS
+
+# production
+build
+
+.DS_Store

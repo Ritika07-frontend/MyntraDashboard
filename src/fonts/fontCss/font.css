@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'LatoBold';
+    src: local('LatoBold'), url(./../Lato/Lato-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'LatoMedium';
+    src: local('LatoMedium'), url(./../Lato/Lato-Medium.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'LatoRegular';
+    src: local('LatoRegular'), url(./../Lato/Lato-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'LatoSemiBold';
+    src: local('LatoSemiBold'), url(./../Lato/Lato-Semibold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'LatoHeavy';
+    src: local('LatoHeavy'), url(./../Lato/Lato-Heavy.ttf) format('truetype');
+}
+
+/* //notoSans */
+
+@font-face {
+    font-family: 'NotoSansBold';
+    src: local('NotoSansBold'), url(./../Noto_Sans/NotoSans-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'NotoSansRegular';
+    src: local('NotoSansRegular'), url(./../Noto_Sans/NotoSans-Regular.ttf) format('truetype');
+}

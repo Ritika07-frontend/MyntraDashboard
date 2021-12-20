@@ -1,0 +1,242 @@
+[
+    {
+        "brand": "Roadstar",
+        "type": "Lounge T-shirt",
+        "price": 249,
+        "pictures": [
+            "img/Tshirt5-a.jpeg",
+            "img/Tshirt5-b.jpeg",
+            "img/Tshirt5-c.jpeg",
+            "img/Tshirt5-d.jpeg",
+            "img/Tshirt5-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Roadstar",
+        "type": "T-shirt",
+        "price": 349,
+        "pictures": [
+            "img/Tshirt2-a.jpeg",
+            "img/Tshirt2-b.jpeg",
+            "img/Tshirt2-c.jpeg",
+            "img/Tshirt2-d.jpeg",
+            "img/Tshirt2-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Roadstar",
+        "type": "Lounge T-shirt",
+        "price": 569,
+        "pictures": [
+            "img/Tshirt3-a.jpeg",
+            "img/Tshirt3-b.jpeg",
+            "img/Tshirt3-c.jpeg",
+            "img/Tshirt3-d.jpeg",
+            "img/Tshirt3-e.jpeg"
+        ]
+    },
+    {
+        "brand": "HRX",
+        "type": "T-shirt",
+        "price": 780,
+        "pictures": [
+            "img/Tshirt4-a.jpeg",
+            "img/Tshirt4-b.jpeg",
+            "img/Tshirt4-c.jpeg",
+            "img/Tshirt4-d.jpeg",
+            "img/Tshirt4-e.jpeg"
+        ]
+    },
+    {
+        "brand": "WROGN",
+        "type": "T-shirt",
+        "price": 249,
+        "pictures": [
+            "img/Tshirt5-a.jpeg",
+            "img/Tshirt5-b.jpeg",
+            "img/Tshirt5-c.jpeg",
+            "img/Tshirt5-d.jpeg",
+            "img/Tshirt5-e.jpeg"
+        ]
+    },
+    {
+        "brand": "WROGN",
+        "type": "T-shirt",
+        "price": 699,
+        "pictures": [
+            "img/Tshirt3-a.jpeg",
+            "img/Tshirt3-b.jpeg",
+            "img/Tshirt3-c.jpeg",
+            "img/Tshirt3-d.jpeg",
+            "img/Tshirt3-e.jpeg"
+        ]
+    },
+    {
+        "brand": "WROGN",
+        "type": "Lounge T-shirt",
+        "price": 343,
+        "pictures": [
+            "img/Tshirt4-a.jpeg",
+            "img/Tshirt4-b.jpeg",
+            "img/Tshirt4-c.jpeg",
+            "img/Tshirt4-d.jpeg",
+            "img/Tshirt4-e.jpeg"
+        ]
+    },
+    {
+        "brand": "HRX",
+        "type": "Lounge T-shirt",
+        "price": 697,
+        "pictures": [
+            "img/Tshirt5-a.jpeg",
+            "img/Tshirt5-b.jpeg",
+            "img/Tshirt5-c.jpeg",
+            "img/Tshirt5-d.jpeg",
+            "img/Tshirt5-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Dressbery",
+        "type": "Lounge T-shirt",
+        "price": 249,
+        "pictures": [
+            "img/Tshirt2-a.jpeg",
+            "img/Tshirt2-b.jpeg",
+            "img/Tshirt2-c.jpeg",
+            "img/Tshirt2-d.jpeg",
+            "img/Tshirt2-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Dressbery",
+        "type": "T-shirt",
+        "price": 349,
+        "pictures": [
+            "img/Tshirt3-a.jpeg",
+            "img/Tshirt3-b.jpeg",
+            "img/Tshirt3-c.jpeg",
+            "img/Tshirt3-d.jpeg",
+            "img/Tshirt3-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Dressbery",
+        "type": "T-shirt",
+        "price": 569,
+        "pictures": [
+            "img/Tshirt4-a.jpeg",
+            "img/Tshirt4-b.jpeg",
+            "img/Tshirt4-c.jpeg",
+            "img/Tshirt4-d.jpeg",
+            "img/Tshirt4-e.jpeg"
+        ]
+    },
+    {
+        "brand": "HRX",
+        "type": "T-shirt",
+        "price": 780,
+        "pictures": [
+            "img/Tshirt3-a.jpeg",
+            "img/Tshirt3-b.jpeg",
+            "img/Tshirt3-c.jpeg",
+            "img/Tshirt3-d.jpeg",
+            "img/Tshirt3-e.jpeg"
+        ]
+    },
+    {
+        "brand": "max",
+        "type": "T-shirt",
+        "price": 249,
+        "pictures": [
+            "img/Tshirt2-a.jpeg",
+            "img/Tshirt2-b.jpeg",
+            "img/Tshirt2-c.jpeg",
+            "img/Tshirt2-d.jpeg",
+            "img/Tshirt2-e.jpeg"
+        ]
+    },
+    {
+        "brand": "max",
+        "type": "Lounge T-shirt",
+        "price": 699,
+        "pictures": [
+            "img/Tshirt5-a.jpeg",
+            "img/Tshirt5-b.jpeg",
+            "img/Tshirt5-c.jpeg",
+            "img/Tshirt5-d.jpeg",
+            "img/Tshirt5-e.jpeg"
+        ]
+    },
+    {
+        "brand": "HRX",
+        "type": "Lounge T-shirt",
+        "price": 343,
+        "pictures": [
+            "img/Tshirt3-a.jpeg",
+            "img/Tshirt3-b.jpeg",
+            "img/Tshirt3-c.jpeg",
+            "img/Tshirt3-d.jpeg",
+            "img/Tshirt3-e.jpeg"
+        ]
+    },
+    {
+        "brand": "max",
+        "type": "Lounge T-shirt",
+        "price": 697,
+        "pictures": [
+            "img/Tshirt5-a.jpeg",
+            "img/Tshirt5-b.jpeg",
+            "img/Tshirt5-c.jpeg",
+            "img/Tshirt5-d.jpeg",
+            "img/Tshirt5-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Puma",
+        "type": "Lounge T-shirt",
+        "price": 249,
+        "pictures": [
+            "img/Tshirt2-a.jpeg",
+            "img/Tshirt2-b.jpeg",
+            "img/Tshirt2-c.jpeg",
+            "img/Tshirt2-d.jpeg",
+            "img/Tshirt2-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Puma",
+        "type": "T-shirt",
+        "price": 699,
+        "pictures": [
+            "img/Tshirt3-a.jpeg",
+            "img/Tshirt3-b.jpeg",
+            "img/Tshirt3-c.jpeg",
+            "img/Tshirt3-d.jpeg",
+            "img/Tshirt3-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Puma",
+        "type": "T-shirt",
+        "price": 343,
+        "pictures": [
+            "img/Tshirt4-a.jpeg",
+            "img/Tshirt4-b.jpeg",
+            "img/Tshirt4-c.jpeg",
+            "img/Tshirt4-d.jpeg",
+            "img/Tshirt4-e.jpeg"
+        ]
+    },
+    {
+        "brand": "Puma",
+        "type": "T-shirt",
+        "price": 697,
+        "pictures": [
+            "img/Tshirt2-a.jpeg",
+            "img/Tshirt2-b.jpeg",
+            "img/Tshirt2-c.jpeg",
+            "img/Tshirt2-d.jpeg",
+            "img/Tshirt2-e.jpeg"
+        ]
+    }
+]

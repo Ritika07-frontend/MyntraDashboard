@@ -1,0 +1,67 @@
+body{
+    margin: 0px;
+}
+.header-wrapper{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+.logo{
+    width : 100px ;
+    /* background: gray; */
+    text-align: center;
+}
+.menu{
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+}
+.header{
+    padding: 0;
+    display: flex;
+    background: white !important;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+}
+.search{
+    width: 50%;
+    display: flex;
+    margin-left: 5%;
+    height: 40px;
+    align-items: center;
+    justify-content: space-around;
+}
+.search-bar{
+    width: 30%;
+}
+
+.layout{
+    /* display: flex; */
+    overflow-x: auto !important;
+ }
+.option-container{
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    /* background-color: red; */
+    height: 100%;
+}
+.option-element{
+    height: 20px;
+}
+.site-layout{
+    background: white !important;
+}
+.site-layout-background{
+    background-color: aqua;
+}
+.side-nav-container{
+    padding: 10px;
+}
+.ant-checkbox-group-item {
+    display: flex !important;
+    margin-right: 0px;
+}
+.option-wraper{
+    margin-top: 20px;
+}
